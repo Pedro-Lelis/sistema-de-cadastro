@@ -13,6 +13,3 @@ node app.js
 # teste
 # teste2
 Alteração para o git pull!
-
-
-<h2>Teste para que eu possa retronar uma versão</h2>
